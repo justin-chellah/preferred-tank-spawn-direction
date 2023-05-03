@@ -10,13 +10,14 @@
 				{
 					"signature" "TheDirector"
 					"read" "12"
-					"read" "0"
 				}
 
 				"linux"
 				{
 					"signature" "TheDirector"
 				}
+				
+				"read" "0"
 			}
 		}
 
