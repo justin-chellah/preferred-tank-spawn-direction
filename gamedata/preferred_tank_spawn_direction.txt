@@ -10,6 +10,7 @@
 				{
 					"signature" "TheDirector"
 					"read" "12"
+					"read" "0"
 				}
 
 				"linux"
